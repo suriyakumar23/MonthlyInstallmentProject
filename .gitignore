@@ -1,0 +1,15 @@
+# Eclipse files
+/.settings/
+/bin/
+/target/
+/*.class
+/.classpath
+/.project
+
+# Tomcat / Eclipse deployment
+/.metadata/
+/.work/
+
+# OS files
+.DS_Store
+Thumbs.db
